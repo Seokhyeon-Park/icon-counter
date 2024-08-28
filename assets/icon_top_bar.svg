@@ -1,0 +1,405 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="count-0" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">0</text>
+  </symbol>
+
+  <symbol id="count-1" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">1</text>
+  </symbol>
+
+  <symbol id="count-2" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">2</text>
+  </symbol>
+
+  <symbol id="count-3" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">3</text>
+  </symbol>
+
+  <symbol id="count-4" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">4</text>
+  </symbol>
+
+  <symbol id="count-5" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">5</text>
+  </symbol>
+
+  <symbol id="count-6" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">6</text>
+  </symbol>
+
+  <symbol id="count-7" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">7</text>
+  </symbol>
+
+  <symbol id="count-8" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">8</text>
+  </symbol>
+
+  <symbol id="count-9" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">9</text>
+  </symbol>
+
+  <symbol id="count-10" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">10</text>
+  </symbol>
+
+  <symbol id="count-11" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">11</text>
+  </symbol>
+
+  <symbol id="count-12" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">12</text>
+  </symbol>
+
+  <symbol id="count-13" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">13</text>
+  </symbol>
+
+  <symbol id="count-14" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">14</text>
+  </symbol>
+
+  <symbol id="count-15" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">15</text>
+  </symbol>
+
+  <symbol id="count-16" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">16</text>
+  </symbol>
+
+  <symbol id="count-17" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">17</text>
+  </symbol>
+
+  <symbol id="count-18" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">18</text>
+  </symbol>
+
+  <symbol id="count-19" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">19</text>
+  </symbol>
+
+  <symbol id="count-20" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">20</text>
+  </symbol>
+
+  <symbol id="count-21" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">21</text>
+  </symbol>
+
+  <symbol id="count-22" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">22</text>
+  </symbol>
+
+  <symbol id="count-23" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">23</text>
+  </symbol>
+
+  <symbol id="count-24" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">24</text>
+  </symbol>
+
+  <symbol id="count-25" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">25</text>
+  </symbol>
+
+  <symbol id="count-26" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">26</text>
+  </symbol>
+
+  <symbol id="count-27" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">27</text>
+  </symbol>
+
+  <symbol id="count-28" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">28</text>
+  </symbol>
+
+  <symbol id="count-29" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">29</text>
+  </symbol>
+
+  <symbol id="count-30" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">30</text>
+  </symbol>
+
+  <symbol id="count-31" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">31</text>
+  </symbol>
+
+  <symbol id="count-32" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">32</text>
+  </symbol>
+
+  <symbol id="count-33" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">33</text>
+  </symbol>
+
+  <symbol id="count-34" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">34</text>
+  </symbol>
+
+  <symbol id="count-35" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">35</text>
+  </symbol>
+
+  <symbol id="count-36" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">36</text>
+  </symbol>
+
+  <symbol id="count-37" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">37</text>
+  </symbol>
+
+  <symbol id="count-38" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">38</text>
+  </symbol>
+
+  <symbol id="count-39" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">39</text>
+  </symbol>
+
+  <symbol id="count-40" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">40</text>
+  </symbol>
+
+  <symbol id="count-41" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">41</text>
+  </symbol>
+
+  <symbol id="count-42" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">42</text>
+  </symbol>
+
+  <symbol id="count-43" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">43</text>
+  </symbol>
+
+  <symbol id="count-44" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">44</text>
+  </symbol>
+
+  <symbol id="count-45" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">45</text>
+  </symbol>
+
+  <symbol id="count-46" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">46</text>
+  </symbol>
+
+  <symbol id="count-47" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">47</text>
+  </symbol>
+
+  <symbol id="count-48" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">48</text>
+  </symbol>
+
+  <symbol id="count-49" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">49</text>
+  </symbol>
+
+  <symbol id="count-50" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">50</text>
+  </symbol>
+
+  <symbol id="count-51" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">51</text>
+  </symbol>
+
+  <symbol id="count-52" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">52</text>
+  </symbol>
+
+  <symbol id="count-53" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">53</text>
+  </symbol>
+
+  <symbol id="count-54" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">54</text>
+  </symbol>
+
+  <symbol id="count-55" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">55</text>
+  </symbol>
+
+  <symbol id="count-56" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">56</text>
+  </symbol>
+
+  <symbol id="count-57" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">57</text>
+  </symbol>
+
+  <symbol id="count-58" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">58</text>
+  </symbol>
+
+  <symbol id="count-59" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">59</text>
+  </symbol>
+
+  <symbol id="count-60" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">60</text>
+  </symbol>
+
+  <symbol id="count-61" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">61</text>
+  </symbol>
+
+  <symbol id="count-62" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">62</text>
+  </symbol>
+
+  <symbol id="count-63" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">63</text>
+  </symbol>
+
+  <symbol id="count-64" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">64</text>
+  </symbol>
+
+  <symbol id="count-65" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">65</text>
+  </symbol>
+
+  <symbol id="count-66" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">66</text>
+  </symbol>
+
+  <symbol id="count-67" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">67</text>
+  </symbol>
+
+  <symbol id="count-68" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">68</text>
+  </symbol>
+
+  <symbol id="count-69" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">69</text>
+  </symbol>
+
+  <symbol id="count-70" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">70</text>
+  </symbol>
+
+  <symbol id="count-71" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">71</text>
+  </symbol>
+
+  <symbol id="count-72" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">72</text>
+  </symbol>
+
+  <symbol id="count-73" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">73</text>
+  </symbol>
+
+  <symbol id="count-74" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">74</text>
+  </symbol>
+
+  <symbol id="count-75" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">75</text>
+  </symbol>
+
+  <symbol id="count-76" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">76</text>
+  </symbol>
+
+  <symbol id="count-77" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">77</text>
+  </symbol>
+
+  <symbol id="count-78" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">78</text>
+  </symbol>
+
+  <symbol id="count-79" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">79</text>
+  </symbol>
+
+  <symbol id="count-80" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">80</text>
+  </symbol>
+
+  <symbol id="count-81" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">81</text>
+  </symbol>
+
+  <symbol id="count-82" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">82</text>
+  </symbol>
+
+  <symbol id="count-83" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">83</text>
+  </symbol>
+
+  <symbol id="count-84" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">84</text>
+  </symbol>
+
+  <symbol id="count-85" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">85</text>
+  </symbol>
+
+  <symbol id="count-86" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">86</text>
+  </symbol>
+
+  <symbol id="count-87" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">87</text>
+  </symbol>
+
+  <symbol id="count-88" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">88</text>
+  </symbol>
+
+  <symbol id="count-89" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">89</text>
+  </symbol>
+
+  <symbol id="count-90" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">90</text>
+  </symbol>
+
+  <symbol id="count-91" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">91</text>
+  </symbol>
+
+  <symbol id="count-92" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">92</text>
+  </symbol>
+
+  <symbol id="count-93" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">93</text>
+  </symbol>
+
+  <symbol id="count-94" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">94</text>
+  </symbol>
+
+  <symbol id="count-95" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">95</text>
+  </symbol>
+
+  <symbol id="count-96" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">96</text>
+  </symbol>
+
+  <symbol id="count-97" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">97</text>
+  </symbol>
+
+  <symbol id="count-98" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">98</text>
+  </symbol>
+
+  <symbol id="count-99" viewBox="0 0 500 500">
+    <text x="125" y="375" font-family="Arial" font-size="350" fill="black">99</text>
+  </symbol>
+    
+  <symbol id="count-99p" viewBox="0 0 500 500">
+    <text x="10" y="60" font-family="Arial" font-size="60" fill="black">99+</text>
+  </symbol>
+</svg>
