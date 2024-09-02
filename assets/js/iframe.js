@@ -2,6 +2,7 @@ const client = ZAFClient.init();
 
 client.on('app.registered', async (data) => {
   let i = 0;
+  client.set('iconSymbol', `count-${i}`);
   
   setInterval(() => {
     i++;
